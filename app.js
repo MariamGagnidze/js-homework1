@@ -55,10 +55,19 @@ console.log(isStudent);
 
 
 
+let User = [ 
+    { 
+    firstName: 'Mariam',
+    lastName: 'Gagnidze',
+    age: 21,
+    email: 'mariamgagnidze77@gmail.com',
+    address: 'Tbilisi',
+    isStudent: true,
+    }	
+]
 
 
 
-let User = ['Mariam','Gagnidze',21,'Mariamgagnidze77@gmail.com','Tbilisi',"isStudent"]
 
 console.log(User);
 
