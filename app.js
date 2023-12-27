@@ -54,15 +54,11 @@ console.log(isStudent);
 // არაერთი მონაცემი (value).
 
 
-let User = [
-    {firstName:'Mariam'},
-    {lastName:'Gagnidze'},
-    {age:21},
-    {email:'Mariamgagnidze77@gmail.com'},
-    {address:'Tbilisi'},
-    {isStuden:true}
 
-]
+
+
+
+let User = ['Mariam','Gagnidze',21,'Mariamgagnidze77@gmail.com','Tbilisi',"isStudent"]
 
 console.log(User);
 
